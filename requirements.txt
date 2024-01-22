@@ -1,0 +1,6 @@
+requests
+argparse
+pyfiglet
+urllib
+colorama
+time
